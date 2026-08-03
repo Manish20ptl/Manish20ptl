@@ -50,11 +50,6 @@
 ### 📅 Daily Progress Log
 Tracking every day of this journey — full log in [Cpp-Dsa](https://github.com/Manish20ptl/Cpp-Dsa) repo.
 
-| Day | Topic | Highlight |
-|-----|-------|-----------|
-| 1 | C++ & Git setup | Solved Two Sum, full toolchain working |
-| 2 | Loops & Math | Solved Palindrome Number |
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer"/>
